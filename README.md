@@ -8,6 +8,14 @@ And then new ways of having fun without any project in mind.
 
 ## Log of new code (desc order)
 
+**2023-05-02**
+
+File: [webscraping.py](2023_py/webscraping.py)
+```
+Learned to use BeautifulSoup and done some good work at the same time.
+```
+
+_______________________________________________________
 **2023-04-30**
 
 File: [No_code_error.py](2023_py/No_code_error.py)
